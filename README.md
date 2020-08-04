@@ -14,7 +14,7 @@
 - 🌐 &nbsp; PHP | HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator | Photoshop | InDesign
 
 <br/>
 
